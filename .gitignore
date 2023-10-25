@@ -6,7 +6,6 @@
 
 #R studio proj file 
 *.Rproj
-
 # Data folder
 Data
 *.pdf
@@ -14,3 +13,4 @@ Data
 *.csv
 *.doc
 *.ppt
+*.txt
