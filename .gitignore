@@ -9,3 +9,7 @@
 
 # Data folder
 Data
+*.pdf
+*.xls
+*.csv
+*.doc
