@@ -12,5 +12,9 @@ Data
 
 # Reports
 *.pdf
+<<<<<<< HEAD
 *.jpeg
 *.tiff
+=======
+*.jpg
+>>>>>>> myrepo2
