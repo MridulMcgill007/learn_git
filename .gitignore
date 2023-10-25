@@ -7,11 +7,4 @@
 #R studio proj file 
 *.Rproj
 
-# Data folder
-Data
-*.pdf
-*.xls
-*.csv
-*.doc
-*.ppt
-*.ppf
+
